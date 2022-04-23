@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ii+q8FpM9HNkoODshPWby0PfGexG0f9gKhkRfJXshDAgpk20k9Bh4/r7Ywk9cx9H7uKRr0rWscO0U8vawZ+oYA==",
+  "success": true,
+  "projectFilePath": "/home/ahmet/myrepo/phonebookmicroservices/services/PhoneBook/PhoneBook.WebApi/PhoneBook.WebApi.csproj",
+  "expectedPackageFiles": [
+    "/home/ahmet/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/ahmet/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
